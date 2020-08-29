@@ -1,10 +1,11 @@
 ### `Author: Joseph Mugo`
 Created for Codecademy Course
-### `HTML`
-### `CSS`
-### `JAVASCRIPT`
-### `REACT`
-
+## LANGUAGES
+> `HTML`
+> `CSS`
+> `JAVASCRIPT`
+> `REACT`
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
